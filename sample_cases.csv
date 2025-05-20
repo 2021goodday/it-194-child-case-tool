@@ -1,0 +1,3 @@
+parent_case_id,date_opened,customer_name,email,phone,description
+#000405789,2025-05-19,Brad Pitt,bradpitt@gmail.com,+63 987 654 3211,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sagittis."
+#000913456,2025-05-20,Jane Doe,janedoe@email.com,+63 912 123 4567,Refund requested for duplicate order.
